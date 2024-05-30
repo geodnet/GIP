@@ -1,2 +1,2 @@
-# GIP
+# GIP 
 GEODNET Improvement Proposals
