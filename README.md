@@ -2,7 +2,7 @@
 # GEODNET Improvement Proposals (GIP)
 
 GEODNET Improvement Proposals constitute the fundamental mechanism for implementing changes within the GEODNET Network.
-If you have questions or feedback, please see the [Discord Governance channel](https://discord.com/invite/VKgsqka8), where you can propose changes, ask questions, provide feedback, and discuss ideas on how to make the GEODNET Governance better.
+If you have questions or feedback, please see the [Discord Governance channel](https://discord.gg/dB3APwkf), where you can propose changes, ask questions, provide feedback, and discuss ideas on how to make the GEODNET Governance better.
 
 Please refer to 0000-template.md for submitting a proposal.
 
@@ -11,6 +11,7 @@ Please refer to 0000-template.md for submitting a proposal.
 <!-- prettier-ignore -->
 | ID | Title | Status |
 | :---: | :--- | :-- |
+| GIP336751715674082436 | GIP-1: Implementing the GEODNET Governance Platform for Community Management | Approved |
 
 
 ## Status Key
