@@ -1,4 +1,4 @@
-First Miner in Hex Priority
+GIP 2: First Miner in Hex Priority
 ===========================
 
   

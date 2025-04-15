@@ -1,4 +1,4 @@
-GIP6: Performance-Based Reward & Penalty System
+GIP7: Performance-Based Reward & Penalty System
 ===============================================
 
 • Author: GEODNET Foundation  

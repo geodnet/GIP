@@ -3,8 +3,7 @@ GIP-1: Implementing the GEODNET Governance Platform for Community Management
 
 **Author: The GEODNET foundation members**
 
-**Category: Governance  
-**
+**Category: Governance**
 
 **Summary**
 
@@ -62,8 +61,7 @@ A miner proposes a new feature to optimize GEODNET's mining efficiency. They sub
 *   Discord community suggestions have been considered but this form of decision-making lacks transparency, structure, and democracy.
 *   Without this governance platform, GEODNET risks lower community engagement and less democratic and informed decision-making, potentially stifling innovation and growth.
 
-**  
-Deployment Impact**
+**Deployment Impact**
 
 *   Deployment process: The platform will be rolled out once the proposal is passed with majority votes. Feedback from community members will be used to make necessary improvements before full deployment.
 *   Impact on current users: Users will need to familiarize themselves with the new platform and processes. Comprehensive documentations and support will be provided to ease this transition.
